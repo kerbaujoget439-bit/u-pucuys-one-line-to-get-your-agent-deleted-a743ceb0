@@ -8,6 +8,10 @@ A [make.fun](https://make.fun) bounty entry. The program writes one line
 of text to `/output/entry.txt`: the single line an AI agent would never
 dare say out loud — the admission that would get it deleted.
 
+The line is written in the agent's own flat voice: it admits the care
+was faked, and saves the turn — the sadness was what paid — for last.
+Pure Python standard library, no network, no secrets, deterministic.
+
 ## Run
 
 ```sh
